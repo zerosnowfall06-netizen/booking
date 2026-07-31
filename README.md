@@ -26,4 +26,4 @@ CREATE TABLE bookings (
 
 ## 🔑 บัญชีผู้ดูแลระบบ (Default Admin)
 * **Username:** admin
-* **Password:** cdhw-F8hf
+* **Password:** 1234
