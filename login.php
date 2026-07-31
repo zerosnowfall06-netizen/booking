@@ -14,7 +14,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     $password = $_POST['password'];
 
     // ตรวจสอบ Username และ Password
-    if($username === "admin" && $password === "cdhw-F8hf") {
+    if($username === "admin" && $password === "1234") {
         // บันทึกค่าเซสชันให้สมบูรณ์
         $_SESSION['admin_logged_in'] = true;
         $_SESSION['username'] = "admin";
